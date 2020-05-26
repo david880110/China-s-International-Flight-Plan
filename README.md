@@ -19,7 +19,7 @@ Perhaps unsurprisingly, many people are now asking whether we can expect similar
 
 ## Data Source
 
-<img src="http://www.airchina.com.cn/cn/images/logo.gif" width="180" height="50"/>
+<img src="http://www.airchina.com.cn/cn/images/logo.gif" width="180" height="50"/> (http://www.airchina.com.cn/cn/images/info_and_services/2020/05/22/3443B56061E61CCD6E7DCCE6E801019B.pdf)
 
 <img src="http://static-cdn.ceair.com/resource/images/public/logo_l.png?v=zh_CN_18403" width="240" height="80"/>
 
