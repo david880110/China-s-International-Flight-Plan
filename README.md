@@ -27,6 +27,15 @@ Perhaps unsurprisingly, many people are now asking whether we can expect similar
 
 <img src="https://www.cae.com/images/made/085f5d481acfd1d8/companies-header-china-southern-690x400_690_400_65.jpg" width="240" height="80"/>
 
+| Company | README |
+| ------ | ------ |
+| Air China | [http://www.airchina.com.cn/cn/images/info_and_services/2020/05/22/3443B56061E61CCD6E7DCCE6E801019B.pdf][PlDb] |
+| China Eastern | [plugins/github/README.md][PlGh] |
+| Xiamen Airline | [plugins/googledrive/README.md][PlGd] |
+| China Southern | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
 * [Air China](http://www.airchina.com.cn/cn/images/info_and_services/2020/05/22/3443B56061E61CCD6E7DCCE6E801019B.pdf)
 * [China Eastern](http://www.ceair.com/about/jjgg2016/202005/t20200520_14873.html)
 * [Xiamen Airline](http://weixin.xiamenair.com/mfservice/Article/Index?pkid=f18747d0371545549d17ea04a63badca)
