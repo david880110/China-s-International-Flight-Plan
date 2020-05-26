@@ -23,9 +23,11 @@ Perhaps unsurprisingly, many people are now asking whether we can expect similar
 
 <img src="http://static-cdn.ceair.com/resource/images/public/logo_l.png?v=zh_CN_18403" width="240" height="80"/>
 
+<img src="https://www.xiamenair.com/brandnew_CN/upload/images/2018/4/2394745259.png" width="240" height="80"/>
+
 * [Air China](http://www.airchina.com.cn/cn/images/info_and_services/2020/05/22/3443B56061E61CCD6E7DCCE6E801019B.pdf)
 * [China Eastern](http://www.ceair.com/about/jjgg2016/202005/t20200520_14873.html)
-* [weather data - New York City](https://w2.weather.gov/climate/index.php?wfo=okx)
+* [Xiamen Airline](http://weixin.xiamenair.com/mfservice/Article/Index?pkid=f18747d0371545549d17ea04a63badca)
 
 ## Region and Domain
 ![alt text](https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/googlemap-los%20angeles.png)
