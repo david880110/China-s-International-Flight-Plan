@@ -3,7 +3,7 @@
 # China-s-International-Flight-Plan
 
 
-![alt text](https://raw.githubusercontent.com/david880110/China-s-International-Flight-Plan/master/image/international%20flight.jpg)
+![alt text](https://www.csair.com/cn/about/news/notice/2020/1e8lq2icqirbu.shtml)
 
 <p align="center">
   • <a href="#Data-Source">Data Source</a>
