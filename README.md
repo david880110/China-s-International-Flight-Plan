@@ -19,13 +19,13 @@ Perhaps unsurprisingly, many people are now asking whether we can expect similar
 
 ## Data Source
 
-<img src="http://www.airchina.com.cn/cn/images/logo.gif" width="180" height="50"/> (http://www.airchina.com.cn/cn/images/info_and_services/2020/05/22/3443B56061E61CCD6E7DCCE6E801019B.pdf)
+<img src="http://www.airchina.com.cn/cn/images/logo.gif" width="180" height="50"/> 
 
-<img src="http://static-cdn.ceair.com/resource/images/public/logo_l.png?v=zh_CN_18403" width="240" height="80"/>
+<img src="http://static-cdn.ceair.com/resource/images/public/logo_l.png?v=zh_CN_18403" width="180" height="50"/>
 
-<img src="https://www.xiamenair.com/brandnew_CN/upload/images/2018/4/2394745259.png" width="240" height="80"/>
+<img src="https://www.xiamenair.com/brandnew_CN/upload/images/2018/4/2394745259.png" width="180" height="50"/>
 
-<img src="https://www.cae.com/images/made/085f5d481acfd1d8/companies-header-china-southern-690x400_690_400_65.jpg" width="240" height="80"/>
+<img src="https://www.cae.com/images/made/085f5d481acfd1d8/companies-header-china-southern-690x400_690_400_65.jpg" width="180" height="50"/>
 
 | Company | Data Source |
 | ------ | ------ |
