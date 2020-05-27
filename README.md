@@ -27,12 +27,16 @@ Perhaps unsurprisingly, many people are now asking whether we can expect similar
 
 <img src="https://www.cae.com/images/made/085f5d481acfd1d8/companies-header-china-southern-690x400_690_400_65.jpg" width="180" height="50"/>
 
+<img src="https://www.hnair.com/image_new/logo.png" width="180" height="50"/>
+
 | Company | Data Source |
 | ------ | ------ |
 | Air China | [http://www.airchina.com.cn/cn/images/info_and_services/2020/05/22/3443B56061E61CCD6E7DCCE6E801019B.pdf] |
 | China Eastern | [http://www.ceair.com/about/jjgg2016/202005/t20200520_14873.html]|
 | Xiamen Airline | [http://weixin.xiamenair.com/mfservice/Article/Index?pkid=f18747d0371545549d17ea04a63badca] |
 | China Southern | [https://www.csair.com/cn/about/news/notice/2020/1e8lq2icqirbu.shtml] |
+| Hainan Airlines | [https://www.hnair.com/guanyuhaihang/hhdt/hhgg/202004/t20200417_43972.html] |
+| Shandong Airlines | [http://www.sda.cn/uploads/1/20200503sdahbsk-zh.pdf] |
 
 ## Region and Domain
 ![alt text](https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/googlemap-los%20angeles.png)
